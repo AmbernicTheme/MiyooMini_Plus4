@@ -1,13 +1,14 @@
 # MiyooMini_Plus4
 
 ![drawing](cplus4_mini.png)
+
 The vice_xplus4_libretro.so core and settings for the MiyooMini and MiyooMini+
 
 The [VICE Libretro core](https://docs.libretro.com/library/vice/) compiled with a modified [Onion make file](https://onionui.github.io/docs/dev/setup) for the Miyoo Mini, so you can play Commodore 16 and Commodore Plus 4 games on your Arm32 Miyoo handheld. 
 
 ## Installation
 
-Whit the additional RetroArch and App settings, all you have to do is copy the project contents onto your SD card and install the core from the package manager.
+With the additional RetroArch and App settings downloaded from the releases, all you have to do is copy the project contents onto your SD card and install the core from the package manager.
 
 Once done, you can place your "ROMs" (d64, zip, 7z, t64, crt, prg, nib, tap files) into the CPLUSFOUR ROM directory and start them from your games.
 
