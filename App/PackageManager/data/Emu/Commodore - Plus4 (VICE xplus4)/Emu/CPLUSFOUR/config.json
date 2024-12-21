@@ -1,0 +1,12 @@
+{
+"label":"Commodore +4",
+"icon":"../../Icons/Default/cp4.png",
+"iconsel":"../../Icons/Default/cp4.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/CPLUSFOUR",
+"imgpath":"../../Roms/CPLUSFOUR/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"d64|zip|7z|t64|crt|prg|nib|tap"
+}
